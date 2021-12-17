@@ -1,0 +1,43 @@
+h1 {
+    display: block;
+    text-align: center;
+    font-family: 'Bakbak One', cursive;
+}
+
+.div {
+    display: block;
+    text-align: center;
+}
+
+.color {
+    width: 500px;
+    height: 100px;
+    box-shadow: 0px 4px 7px rgb(138, 132, 132);
+}
+
+.div1 {
+    display: block;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.btn {
+    width: 200px;
+    height: 100px;
+    font-size: 40px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 0px 4px 7px rgb(138, 132, 132);
+}
+
+.btn1 {
+    font-size: 12px;
+}
+
+.hienthi {
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(93, 150, 36);
+}
